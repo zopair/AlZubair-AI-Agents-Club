@@ -1,0 +1,5 @@
+{
+    "Auto_Price_Adjustment": "Active (Keep 30% margin minimum)",
+    "Supplier_Health_Check": "Every 30 minutes",
+    "Profit_Export_Target": "Every $500 accumulated"
+}
